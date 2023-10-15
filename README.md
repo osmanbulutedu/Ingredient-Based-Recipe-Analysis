@@ -1,2 +1,2 @@
 # Ingredient-Based-Recipe-Analysis
-going on, will be updated
+project is going on, files and explanations will be updated
