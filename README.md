@@ -37,10 +37,8 @@ Python 3.8 or above and the following libraries
    
       
 
-# Introduction
-
-
-## Quick Overview
+#Abstract
+This project addresses the evaluation of online recipe healthiness through machine learning, feature engineering, and data processing. It leverages the RecipeKG knowledge graph, incorporating web scraping from allrecipes.com, unit normalization, and ingredient vectorization. The objectives encompass structured data creation, health score prediction using Classification and Regression techniques, and emphasizing ingredient amounts' significance. Results highlight the Histogram-Based Gradient Boosting model's performance, offering a valuable tool for informed dietary choices and open-source datasets for further research in online culinary diversity.
 
  
 ```
