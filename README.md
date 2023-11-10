@@ -19,6 +19,9 @@ Python 3.8 or above and the following libraries
 
 ### Files
 ```
+  Academic paper:
+       ➡️Ingrediet Based Recipe Health Analysis.pdf : The detailed academic paper form of the whole project
+
   Code:
    
       ➡️ queryIngUnitQuant.ipynb : This code has a query, that takes Recipe,Ingredients, Ingredients Quantity and Units and convert them to a data frame RecipeKG knowledge graph (https://github.com/IDIASLab/RecipeKG).
