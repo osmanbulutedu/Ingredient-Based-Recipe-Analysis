@@ -12,8 +12,10 @@ Python 3.8 or above and the following libraries
 
 ```
 - request, json, BeautifulSoup
+-sklearn, keras
 - nltk, glob, difflib
 - rdflib
+-seaborn, matplotlib
 ```
 
 
